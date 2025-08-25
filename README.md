@@ -1,4 +1,4 @@
 ## Passo a passo para a execução: 
-- Baixe o PDF das súmulas em https://scon.stj.jus.br/SCON/sumstj/;
+- Baixe o PDF das súmulas anotadas em https://scon.stj.jus.br/SCON/sumstj/;
 - Faça upload do arquivo para /content/SumulasSTJ.pdf no Google Colab;
 - Execute o código no Colab.
